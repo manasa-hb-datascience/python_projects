@@ -1,2 +1,0 @@
-
-compare(user_score,computer_score)
